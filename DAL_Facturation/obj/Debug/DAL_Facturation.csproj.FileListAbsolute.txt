@@ -1,0 +1,7 @@
+C:\Users\Soumae\documents\visual studio 2015\Projects\Facturation\DAL_Facturation\bin\Debug\DAL_Facturation.exe.config
+C:\Users\Soumae\documents\visual studio 2015\Projects\Facturation\DAL_Facturation\bin\Debug\DAL_Facturation.exe
+C:\Users\Soumae\documents\visual studio 2015\Projects\Facturation\DAL_Facturation\bin\Debug\DAL_Facturation.pdb
+C:\Users\Soumae\documents\visual studio 2015\Projects\Facturation\DAL_Facturation\bin\Debug\System.Data.SqlServerCe.dll
+C:\Users\Soumae\documents\visual studio 2015\Projects\Facturation\DAL_Facturation\obj\Debug\DAL_Facturation.exe
+C:\Users\Soumae\documents\visual studio 2015\Projects\Facturation\DAL_Facturation\obj\Debug\DAL_Facturation.pdb
+C:\Users\Soumae\documents\visual studio 2015\Projects\Facturation\DAL_Facturation\obj\Debug\DAL_Facturation.csprojResolveAssemblyReference.cache
